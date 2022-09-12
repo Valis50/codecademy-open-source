@@ -1,3 +1,3 @@
 # codecademy-open-source
 
-Mans pirmais vinginājums
+Mans pirmais vingrinājums
